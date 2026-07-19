@@ -5,7 +5,7 @@ sme-market-research/
 │   └── processed/            # cleaned CSVs you export for inspection
 │
 ├── db/
-│   └── sme_research.db       # your SQLite database
+│   └── sme_research.db       #SQLite database
 │
 ├── scripts/
 │   ├── ingest_eurostat_sme.py
@@ -17,7 +17,7 @@ sme-market-research/
 │   └── exploration.ipynb     # scratch space only, not final code
 │
 ├── notes/
-│   └── data_observations.md  # what you noticed about raw data before coding
+│   └── data_observations.md  # what has been noticed about raw data before coding
 │
 ├── requirements.txt
 └── README.md
